@@ -1,11 +1,11 @@
 # Trabalho  em Grupo - +Devs2Blu
 
 Equipe 4
-* Alexandre
-* Ana Lydia
-* Carlos Junior 
-* Nicolas 
-* Luiz Carlos
+* Alexandre Schwanke Da Costa
+* Ana Lydia Moreira
+* Carlos Eduardo Dos Santos Junior 
+* Nicolas Monteiro Mattos 
+* Luiz Carlos Malicscki
 
 Sistema de cadastro de pacientes com integraçao com Bando de dados MySQL.
 
