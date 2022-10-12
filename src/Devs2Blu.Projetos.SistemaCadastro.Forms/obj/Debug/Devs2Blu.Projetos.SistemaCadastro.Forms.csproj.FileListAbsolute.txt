@@ -1,0 +1,225 @@
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe.config
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.pdb
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.AssemblyReference.cache
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.SuggestedBindingRedirects.cache
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.Properties.Resources.resources
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.GenerateResource.cache
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.CoreCompileInputs.cache
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.pdb
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\BouncyCastle.Crypto.xml
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.xml
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe.config
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.pdb
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\BouncyCastle.Crypto.dll
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.dll
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.dll
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.dll
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Hash.xxHash.dll
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\MySql.Data.dll
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Buffers.dll
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Memory.dll
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Numerics.Vectors.dll
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Ubiety.Dns.Core.dll
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\ZstdNet.dll
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.pdb
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.pdb
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.xml
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Hash.xxHash.xml
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\MySql.Data.xml
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Buffers.xml
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Memory.xml
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Numerics.Vectors.xml
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.AssemblyReference.cache
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.SuggestedBindingRedirects.cache
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.FormMain.resources
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.Properties.Resources.resources
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.GenerateResource.cache
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.CoreCompileInputs.cache
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.CopyComplete
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe
+D:\Devs2Blu\Projetos\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.pdb
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.FormMain.resources
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\BouncyCastle.Crypto.dll
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.dll
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.dll
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.dll
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Hash.xxHash.dll
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\MySql.Data.dll
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Buffers.dll
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Memory.dll
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Numerics.Vectors.dll
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Ubiety.Dns.Core.dll
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\ZstdNet.dll
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.pdb
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\BouncyCastle.Crypto.xml
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.pdb
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.xml
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.xml
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Hash.xxHash.xml
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\MySql.Data.xml
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Buffers.xml
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Memory.xml
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Numerics.Vectors.xml
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\devs2blu\AulasBancoDeDados\ProjetoSistemaCadastro\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.CopyComplete
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe.config
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.pdb
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\BouncyCastle.Crypto.dll
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.dll
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.dll
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.dll
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Hash.xxHash.dll
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\MySql.Data.dll
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Buffers.dll
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Memory.dll
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Ubiety.Dns.Core.dll
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\ZstdNet.dll
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.pdb
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\BouncyCastle.Crypto.xml
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.pdb
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.xml
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.xml
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Hash.xxHash.xml
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\MySql.Data.xml
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Buffers.xml
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Memory.xml
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Numerics.Vectors.xml
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.AssemblyReference.cache
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.FormMain.resources
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.Properties.Resources.resources
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.GenerateResource.cache
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.CoreCompileInputs.cache
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.CopyComplete
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe
+D:\Desktop\dev2blu\C-conceitos\15_\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.pdb
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe.config
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.pdb
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\BouncyCastle.Crypto.dll
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.dll
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.dll
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.dll
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Hash.xxHash.dll
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\MySql.Data.dll
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Buffers.dll
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Memory.dll
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Numerics.Vectors.dll
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Ubiety.Dns.Core.dll
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\ZstdNet.dll
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.pdb
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\BouncyCastle.Crypto.xml
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.pdb
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.xml
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.xml
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Hash.xxHash.xml
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\MySql.Data.xml
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Buffers.xml
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Memory.xml
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Numerics.Vectors.xml
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.AssemblyReference.cache
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.SuggestedBindingRedirects.cache
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.FormMain.resources
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.Properties.Resources.resources
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.GenerateResource.cache
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.CoreCompileInputs.cache
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.CopyComplete
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.pdb
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.AssemblyReference.cache
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.FormMain.resources
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.GenerateResource.cache
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.pdb
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe.config
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.pdb
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.dll
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.dll
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\MySql.Data.dll
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Buffers.dll
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Memory.dll
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\ZstdNet.dll
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.pdb
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.xml
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\MySql.Data.xml
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Buffers.xml
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Memory.xml
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.Properties.Resources.resources
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.CoreCompileInputs.cache
+C:\Users\Ana Lydia\Devs2Blu.Projetos.SistemaCadastroSQL\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.CopyComplete
+C:\devs2blu\AulasBancoDeDados\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\FontAwesome.Sharp.dll
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe.config
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.pdb
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\BouncyCastle.Crypto.dll
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.dll
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\FontAwesome.Sharp.dll
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.dll
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.dll
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Hash.xxHash.dll
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\MySql.Data.dll
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Buffers.dll
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Memory.dll
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Numerics.Vectors.dll
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Ubiety.Dns.Core.dll
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\ZstdNet.dll
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Devs2Blu.Projetos.SistemaCadastro.Models.pdb
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\BouncyCastle.Crypto.xml
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.pdb
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\Google.Protobuf.xml
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.xml
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\K4os.Hash.xxHash.xml
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\MySql.Data.xml
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Buffers.xml
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Memory.xml
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Numerics.Vectors.xml
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.AssemblyReference.cache
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.SuggestedBindingRedirects.cache
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.FormMain.resources
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.Properties.Resources.resources
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.GenerateResource.cache
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.CoreCompileInputs.cache
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.csproj.CopyComplete
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.exe
+C:\Devs2Blu\Trabalho1\Devs2Blu.Projetos.SistemaCadastroSQL\SlnSistemaCadastro\src\Devs2Blu.Projetos.SistemaCadastro.Forms\obj\Debug\Devs2Blu.Projetos.SistemaCadastro.Forms.pdb
