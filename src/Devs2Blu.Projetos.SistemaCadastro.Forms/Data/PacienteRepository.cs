@@ -50,7 +50,7 @@ namespace Devs2Blu.Projetos.SistemaCadastro.Forms.Data
                 throw;
             }
         }
-        //git commit 20/10
+        //git commit 21/10
         public Paciente UpdatePessoa(Paciente paciente, Int32 idAlterar, MySqlConnection conn)
         {
             try
